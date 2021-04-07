@@ -1,0 +1,18 @@
+irc:
+  server: 'chat.example.net'
+  port: 6697
+  nick: 'example'
+  realname: 'example'
+  password: 'example'
+  channels:
+    - '#example-log'
+
+mediawiki:
+  host: 'wiki.example.org'
+  path: '/w' # set this to the same value as $wgScriptPath
+  scheme: 'https'
+  consumer_token: 'example'
+  consumer_secret: 'example'
+  access_token: 'example'
+  access_secret: 'example'
+  page: 'Server Admin Log'

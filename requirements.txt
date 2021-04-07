@@ -1,0 +1,4 @@
+pyyaml
+irc
+ib3
+mwclient
